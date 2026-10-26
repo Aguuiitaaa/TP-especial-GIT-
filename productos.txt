@@ -1,1 +1,4 @@
-Aca van los productos
+Productos del proveedor:
+arroz
+hielo
+papa
