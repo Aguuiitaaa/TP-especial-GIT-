@@ -1,1 +1,2 @@
 Procesos supervisados
+Procesos del proovedor: Entregar al gestor de stock
